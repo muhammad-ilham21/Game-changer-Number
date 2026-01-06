@@ -1,8 +1,8 @@
-🕹️ Game Changer: Number Guessing Game
-Welcome to Game Changer, a fun and interactive number guessing game built with vanilla JavaScript! Test your intuition and logic by trying to guess a randomly generated number between 1 and 100. Each guess brings you closer to victory — or reveals how far off you are!
+<h4>🕹️ Game Changer: Number Guessing Game
+Welcome to Game Changer, a fun and interactive number guessing game built with vanilla JavaScript! Test your intuition and logic by trying to guess a randomly generated number between 1 and 100. Each guess brings you closer to victory — or reveals how far off you are!</h4>
 
 
-🔗 Live Demo 
+<h3>🔗 Live Demo</h3>
 Play the game here-- https://muhammad-ilham21.github.io/Game-changer-Number/
 
 📦 Features
