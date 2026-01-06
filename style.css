@@ -1,0 +1,7 @@
+body{
+    background-image: url("images.jpeg");
+  background-repeat: repeat-x;
+}
+#mySubmit{
+    font-size: 1em;
+}
